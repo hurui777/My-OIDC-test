@@ -1,5 +1,4 @@
 
-Rui Hu
 # MITREid Connect
 ---
 
